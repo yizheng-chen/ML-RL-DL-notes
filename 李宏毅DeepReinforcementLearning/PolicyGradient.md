@@ -18,7 +18,7 @@ gradient ascent
 
 Gradient (f(x)) = f(x) gradient (log f(x))
 
-
+![image](https://github.com/yoyo715/ML-RL-DL-notes/blob/master/%E6%9D%8E%E5%AE%8F%E6%AF%85DeepReinforcementLearning/img/9E3C42AE-4D66-4811-8EB0-4068234CB91C.png)
 
 
 
