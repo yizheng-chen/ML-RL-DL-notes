@@ -1,4 +1,4 @@
-待解决: min(cross entropy) = max(最大似然估计)
+
 
 ## reinforcement learning
 
@@ -18,7 +18,7 @@ gradient ascent
 
 Gradient (f(x)) = f(x) gradient (log f(x))
 
-![9E3C42AE-4D66-4811-8EB0-4068234CB91C](/Users/yizhengchen/Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ/Users/229182954/QQ/Temp.db/9E3C42AE-4D66-4811-8EB0-4068234CB91C.png)
+
 
 
 
@@ -51,6 +51,7 @@ R-->从t开始到结束的所有reward，再对比较未来的reward做discount 
 *Advantage Function*: How good it is if we take At other than other Attions at St. Estimated by "critic"(later)
 
 
+min(cross entropy) = max(最大似然估计)?
 
 
 
